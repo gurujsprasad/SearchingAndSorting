@@ -3,6 +3,11 @@
 .metadata
 RemoteSystemsTempFiles
 
+.classpath
+.settings
+bin
+.project
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
